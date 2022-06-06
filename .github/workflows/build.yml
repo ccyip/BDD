@@ -56,5 +56,5 @@ jobs:
         with:
           branch: gh-pages
           folder: html
-          target-folder: master
+          target-folder: docs
           git-config-name: 'Qianchuan Ye'
